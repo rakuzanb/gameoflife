@@ -13,3 +13,4 @@ carrots appear randomly
 if there is another rabbit and a carrot next to the rabbit, then he will choose the carrot instead of the rabbit. Same with the fox. (Food, not baby)
 
 
+![fox](https://user-images.githubusercontent.com/99634486/161769031-0f246adf-dc64-485a-bbd7-8b6a68678ab3.png)
